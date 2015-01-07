@@ -1,8 +1,10 @@
 /* Space out content a bit */
 body {
+  margin-top: 60px;
   padding-top: 20px;
   padding-bottom: 20px;
-  background-image:url("../img/crossword.png")
+  background-image:url("../img/crossword.png");
+font-family: 'Righteous', cursive;
 }
 
 .title {
@@ -15,6 +17,10 @@ body {
 .footer {
   padding-right: 15px;
   padding-left: 15px;
+}
+
+.language-switcher {
+  float:right;
 }
 
 /* Make the masthead heading the same height as the navigation */
