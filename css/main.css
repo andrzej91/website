@@ -1,6 +1,5 @@
 /* Space out content a bit */
 body {
-  margin-top: 60px;
   padding-top: 20px;
   padding-bottom: 20px;
   background-image:url("../img/crossword.png");
@@ -8,6 +7,9 @@ font-family: 'Righteous', cursive;
 }
 
 .title {
+  margin-top: 60px;
+margin-bottom: 30px;
+
   font-size: 541%;
    font-family: 'Herr Von Muellerhoff', cursive;
 }
@@ -26,7 +28,7 @@ font-family: 'Righteous', cursive;
 
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
-  margin-top: 0;
+  margin-top: 60px;
   margin-bottom: 0;
   
 }
