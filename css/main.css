@@ -8,7 +8,8 @@ font-family: 'Righteous', cursive;
 }
 
 .title {
-   font-size:300%;
+  font-size: 541%;
+   font-family: 'Herr Von Muellerhoff', cursive;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -25,10 +26,9 @@ font-family: 'Righteous', cursive;
 
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
-  padding-bottom: 19px;
   margin-top: 0;
   margin-bottom: 0;
-  line-height: 40px;
+  
 }
 
 /* Custom page footer */
